@@ -91,7 +91,7 @@ Gulbaaz
 
 ---
 
-bas itna hi. formatting clean hai, emojis optional hain — chahe toh hata bhi sakte ho agar minimal look chahiye.
+Data tells stories. SQL helps you read them.
 
 
 
