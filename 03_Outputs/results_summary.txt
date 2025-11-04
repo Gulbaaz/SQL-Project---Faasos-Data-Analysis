@@ -1,0 +1,21 @@
+Results Summary
+
+1. Total Orders: The dataset shows a moderate number of roll orders with multiple entries per customer, indicating repeat orders.
+
+2. Unique Customers: A small but consistent customer base frequently placed orders across different dates.
+
+3. Successful Deliveries: Most orders were successfully delivered, though a few cancellations occurred due to either driver or customer reasons.
+
+4. Roll Type Distribution: Non-veg rolls were slightly more popular than veg rolls, showing customer preference for meat-based options.
+
+5. Customer-Level Ordering Pattern: Each customer ordered both roll types at least once, but their frequency varied depending on day and time.
+
+6. Order Timing: Peak ordering hours were in the evening, reflecting dinner-time demand.
+
+7. Driver Efficiency: Average pickup times and delivery durations varied by driver, suggesting differences in workload or route distance.
+
+8. Customizations: Several customers requested exclusions and extras, highlighting demand for personalization in food orders.
+
+9. Distance and Time Correlation: There was a weak positive correlation between distance and total delivery time — longer routes generally took more minutes.
+
+10. Overall Insight: The dataset provides a simplified but realistic view of an online food ordering system, useful for practicing SQL joins, aggregations, and data cleaning.
