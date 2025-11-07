@@ -1,4 +1,4 @@
-# 🍔 SQL Project — Faasos Online Food Delivery Analysis  
+# 🍔 SQL Project - Faasos Online Food Delivery Analysis  
 
 ### 🧾 Project Overview  
 This project analyzes a simulated **Faasos online food delivery dataset** to explore customer behavior, order patterns, and driver performance.  
@@ -83,11 +83,9 @@ The project answers the following key business and analytical questions using SQ
 ---
 
 ### 🧑‍💻 Author
-
-Gulbaaz
-📍 Delhi, India
-💼 Data Analyst | SQL | Python | Power BI
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/gulbaaz/)
+**Gulbaaz**  
+DTU’22 | Data & Business Analyst | SQL, Power BI, Excel Projects on GitHub  
+📫 [GitHub Profile](https://github.com/Gulbaaz)
 
 ---
 
